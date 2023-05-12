@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-add-swift-support": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-add-swift-support"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-keyri": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/Keyri-Co/cordova-keyri"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
