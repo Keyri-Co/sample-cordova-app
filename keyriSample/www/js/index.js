@@ -44,7 +44,7 @@ function initializePlugin() {
 }
 
 function easyKeyriAuth() {
-    Keyri.easyKeyriAuth(appKey, publicAppKey, 'Payload', 'kulagin.andrew38@gmail.com', () => {
+    Keyri.easyKeyriAuth(appKey, publicAppKey, 'Payload', 'kuliahin.andrew@gmail.com', () => {
         console.log('CordovaKeyri.easyKeyriAuth', 'ok');
         alert('Authorized');
     }, (e) => {
